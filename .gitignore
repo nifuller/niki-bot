@@ -137,8 +137,8 @@ bot-env/Scripts/pip3.9.exe
 bot-env/Scripts/pip3.exe
 bot-env/Scripts/python.exe
 bot-env/Scripts/pythonw.exe
-scripts.txt
 list-of-users.txt
 config.ini
 bot-env/Scripts/normalizer.exe
 bot-env/Scripts/dotenv.exe
+bot-link.txt

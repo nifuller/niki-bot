@@ -14,7 +14,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-channel_name = "general"
+channel_name = "✅subathon-check-in"
 bot.message_id = 0
 
 @bot.event
